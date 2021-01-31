@@ -2,20 +2,6 @@
     "_meta": {
 		"sources": [
             {
-				"json": "PT",
-				"abbreviation": "PT",
-				"full": "Playtest",
-				"url": "https://paizo.com/pathfinderplaytest",
-				"authors": [
-					"Paizo"
-				],
-				"convertedBy": [
-					"MrVauxs"
-				],
-				"version": "0.0.1",
-				"color": "ff6600"
-            },
-            {
 				"json": "PT:G&G",
 				"abbreviation": "PT:G&G",
 				"full": "Playtest: Guns & Gears",
@@ -32,7 +18,7 @@
 				"json": "PT:SoM",
 				"abbreviation": "PT:SoM",
 				"full": "Playtest: Secrets of Magic",
-				"url": "https://paizo.s3-us-west-2.amazonaws.com/SecretsofMagic_Playtest.pdf",
+				"url": "https://downloads.paizo.com/SecretsofMagic_Playtest.pdf",
 				"authors": [
 					"Paizo"
 				],
@@ -267,7 +253,7 @@
 							"type": "list",
 							"items": [
 								"Assume that since you know how your gun works, you must also understand other mechanical challenges.",
-								"Underestimate you at first glance as just someone who fights with a gun",
+								"Underestimate you at first glance as just someone who fights with a gun.",
 								"Respect your constant vigilance, unyielding grit, and excellent aim."
 							]
 						}
