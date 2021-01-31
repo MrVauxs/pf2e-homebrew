@@ -26,6 +26,19 @@
 					"MrVauxs"
 				],
 				"version": "0.0.1"
+			},
+			{
+				"json": "PT:APG",
+				"abbreviation": "PT:APG",
+				"full": "Playtest: Advanced Player's Guide",
+				"url": "https://paizo-images.s3-us-west-2.amazonaws.com/image/download/PZO2105+Character+Playtest.pdf",
+				"authors": [
+					"Paizo"
+				],
+				"convertedBy": [
+					"MrVauxs"
+				],
+				"version": "0.0.1"
 			}
 		],
 		"dateAdded": 0,
